@@ -1,1 +1,5 @@
 Nafissatou Faye
+Ce fichier 4_Faye n'était pas commité dans la branche master Or avant d'utiliser git checkout pour changer de branche,
+on devrait d'abord commités toutes les modifications. Raison pour laquelle, on constate que le fichier n'existe plus dans la branche master
+en rechangeant de branche.
+
